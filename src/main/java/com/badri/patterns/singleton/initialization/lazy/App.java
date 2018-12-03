@@ -1,4 +1,4 @@
-package com.badri.patterns.singleton;
+package com.badri.patterns.singleton.initialization.lazy;
 
 /**
  * @author badrikant.soni on 03/12/18,2018
@@ -12,6 +12,6 @@ public class App {
 
 
         // checking if both are pointing to same object in memory
-        System.out.println(dateUtil1==dateUtil2); // true
+        System.out.println(dateUtil1 == dateUtil2); // true
     }
 }

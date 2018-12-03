@@ -1,4 +1,4 @@
-package com.badri.patterns.singleton;
+package com.badri.patterns.singleton.initialization.lazy;
 
 /**
  * @author badrikant.soni on 03/12/18,2018
