@@ -6,8 +6,8 @@
 
 * We need to implement Clonable interface and override the clone method which should throw cloneNotSupportedException.
 
-    // Should override this method and throw an exception if some other class try to clone the object.
-    @Override
-    protected Object clone() throws CloneNotSupportedException {
-        throw new CloneNotSupportedException();
-    }
+        // Should override this method and throw an exception if some other class try to clone the object.
+        @Override
+        protected Object clone() throws CloneNotSupportedException {
+            throw new CloneNotSupportedException();
+        }
