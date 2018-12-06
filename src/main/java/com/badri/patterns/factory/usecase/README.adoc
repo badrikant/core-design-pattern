@@ -30,3 +30,7 @@ The pizza factory hides the complexity of creating the different types of pizzas
 
 image::image/pizza-store.png[]
 
+Pizza Factory UML :
+
+image::image/Factory.png[]
+
